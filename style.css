@@ -1,0 +1,60 @@
+
+
+#felement{
+
+border-radius:10px;
+height:30px;
+border-color:#009900;
+background-color:#FFFF99;
+box-shadow: 10px 10px 15px #000;
+
+}
+#btn {
+
+border-radius:10px;
+color:#FFFFFF;
+background-color:#009900;
+height:30px;
+width:130px;
+
+}
+
+#btn:hover{
+color:#000000;
+background-color:#FF9900;
+align:center;
+font-size:16px;
+box-shadow: 10px 10px 15px #000;
+border-color:#400000;
+}
+
+.table{
+ margin-left:auto;
+  margin-right:auto;
+}
+#file{
+
+width:190px;
+
+
+border-radius:10px;
+height:34px;
+border-color:#009900;
+background-color:#FFFF99;
+box-shadow: 10px 10px 15px #000;
+
+}
+
+
+#combo
+{
+
+
+border-radius:10px;
+height:38px;
+border-color:#009900;
+background-color:#FFFF99;
+box-shadow: 10px 10px 15px #000;
+width:247px;
+
+}
